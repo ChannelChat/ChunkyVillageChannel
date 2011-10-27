@@ -1,0 +1,6 @@
+enabled: true
+name: Village
+tag: '[{NAME}]'
+listed: false
+auto: true
+alias: v

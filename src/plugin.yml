@@ -1,0 +1,5 @@
+name: ChunkyVillageChannel  
+main: feildmaster.modules.chanchat.chunkyvillage.Village
+version: 1.0
+author: feildmaster
+depend: [ChannelChat, ChunkyVillage]
